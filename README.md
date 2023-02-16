@@ -1,3 +1,5 @@
+![logo](https://github.com/Surajbarole/Surajbarole/blob/main/Web%20developer.png)
+
 <h1 align="center">Hi 👋, I'm Suraj Barole</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 

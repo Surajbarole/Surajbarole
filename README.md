@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **JAVA DSA**
 
-- 👨‍💻 All of my projects are available at [[https://surajpersonalportfolio.netlify.app/](https://surajbarole09portfolio.netlify.app/)]
+- 👨‍💻 All of my projects are available at []
 
 - 📫 How to reach me **surajbarole1@gmail.com**
 
-- 📄 Know about my experiences [[file:///C:/Users/suraj/Downloads/Resume2023.pdf](https://surajbarole09portfolio.netlify.app/images/june-resume2023.pdf)]
+- 📄 Know about my experiences []
 
 - ⚡ Fun fact **I think i'm funny✌**
 

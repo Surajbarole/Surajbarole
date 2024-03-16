@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at []
 
-- 📫 How to reach me **surajbarole1@gmail.com**
+- 📫 How to reach me **surajbarole7879@gmail.com**
 
 - 📄 Know about my experiences []
 
